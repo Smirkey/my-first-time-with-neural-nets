@@ -8,3 +8,4 @@ It should use rl and all that fancy stuff, but it's my first experience with neu
 
 luv
 
+![Xhat the game looks like](https://github.com/Smirkey/my-first-time-with-neural-nets/blob/master/game.png)
